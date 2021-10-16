@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">mansuHS</string>
+    <string name="error">We cannot find this image</string>
+    <string name="error2">We cannot find this image</string>
+    <string name="title_activity_tabletime">tabletime</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>

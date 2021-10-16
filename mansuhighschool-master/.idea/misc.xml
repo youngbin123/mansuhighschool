@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Program/mansuHS/app/src/main/res/layout/activity_main.xml" value="0.21" />
+        <entry key="..\:/Program/mansuHS/app/src/main/res/layout/choisoonjoo.xml" value="0.2957427536231884" />
+        <entry key="..\:/Program/mansuHS/app/src/main/res/layout/juntaehyun.xml" value="0.2957427536231884" />
+        <entry key="..\:/Program/mansuHS/app/src/main/res/layout/leechanyoung.xml" value="0.2957427536231884" />
+        <entry key="..\:/Program/mansuHS/app/src/main/res/layout/leejaewoo.xml" value="0.2957427536231884" />
+        <entry key="..\:/Program/mansuHS/app/src/main/res/layout/lunch.xml" value="0.28306159420289856" />
+        <entry key="..\:/Program/mansuHS/app/src/main/res/layout/parkminseo.xml" value="0.28306159420289856" />
+        <entry key="..\:/Program/mansuHS/app/src/main/res/layout/yooyoungbin.xml" value="0.2957427536231884" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/activity_main.xml" value="0.2554347826086957" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/calculator.xml" value="0.2957427536231884" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/examtimer.xml" value="0.1" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/fragment_tabletime.xml" value="0.18177083333333333" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/lunch.xml" value="0.2957427536231884" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/parkminseo.xml" value="0.18802083333333333" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/tabletime.xml" value="0.19635416666666666" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/time.xml" value="0.19635416666666666" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/time1.xml" value="0.2554347826086957" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/time2.xml" value="0.2554347826086957" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/time3.xml" value="0.2554347826086957" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/time4.xml" value="0.2554347826086957" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/time5.xml" value="0.2554347826086957" />
+        <entry key="..\:/Program/mansuhighschool1234/app/src/main/res/layout/timetable.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/JTH/AndroidStudioProjects/mansuhighschool/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2171875" />
+        <entry key="..\:/Users/JTH/AndroidStudioProjects/mansuhighschool/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2171875" />
+        <entry key="..\:/Users/JTH/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/activity_main.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/JTH/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/gongji.xml" value="0.18645833333333334" />
+        <entry key="..\:/Users/JTH/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/jungtaehyun.xml" value="0.33" />
+        <entry key="..\:/Users/JTH/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/leejaewoo.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/JTH/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/parkminseo.xml" value="0.20104166666666667" />
+        <entry key="..\:/Users/JTH/AndroidStudioProjects/mansuhighschool/app/src/main/res/menu/main_menu.xml" value="0.2" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/gajung.xml" value="0.19202898550724637" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/gongji.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/jungtaehyun.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/leechanyoung.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/leejaewoo.xml" value="0.1" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/parkminseo.xml" value="0.33" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/calculator.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/calculator1.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/calculator2.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/calculator3.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/choisoonjoo.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/gajung.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/gongji.xml" value="0.276268115942029" />
+        <entry key="..\:/Users/user/AndroidStudioProjects/mansuhighschool/app/src/main/res/layout/mockexamtimer.xml" value="0.28306159420289856" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1824074074074074" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/drawable-v24/stopwatch.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/drawable-v24/stopwatchbtn.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/drawable/ic_launcher_background.xml" value="0.22083333333333333" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/calculator.xml" value="0.25" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/choisoonjoo.xml" value="0.1" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/examtimer.xml" value="0.22" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/leechanyoung.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/leejaewoo.xml" value="0.33" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/lunch.xml" value="0.1897644927536232" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/mockexamtimer.xml" value="0.25" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/parkminseo.xml" value="0.2046875" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/subjectimer.xml" value="0.25" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/time.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/layout/timetable.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/menu/main_menu.xml" value="0.34512820512820513" />
+        <entry key="..\:/Users/user/Programming/mansuhighschool/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.10925925925925926" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15_PREVIEW" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

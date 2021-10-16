@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".leejaewoo">
+
+
+    <ImageButton
+        android:id="@+id/button2"
+        android:layout_width="402dp"
+        android:layout_height="161dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginTop="4dp"
+        android:background="#00000000"
+        android:contentDescription="@string/error2"
+        android:scaleType="centerInside"
+        android:src="@drawable/button2"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/button1_ljw"
+        android:layout_width="290dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="80dp"
+        android:layout_marginEnd="56dp"
+        android:text="과목 스톱워치"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="@id/button2"
+        app:layout_constraintTop_toBottomOf="@id/button2" />
+
+    <Button
+        android:id="@+id/button2_ljw"
+        android:layout_width="290dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="50dp"
+        android:text="중간,기말고사 타이머"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="@id/button1_ljw"
+        app:layout_constraintTop_toBottomOf="@id/button1_ljw" />
+
+    <Button
+        android:id="@+id/button3_ljw"
+        android:layout_width="290dp"
+        android:layout_height="80dp"
+        android:layout_marginTop="50dp"
+        android:text="모의고사 타이머"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="@id/button2_ljw"
+        app:layout_constraintTop_toBottomOf="@id/button2_ljw"/>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
